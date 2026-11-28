@@ -16,7 +16,7 @@ Generate Seedance videos and retrieve the finished clip. 插件复用 [Ace Data 
 
 ## 2. 注册/登录并取得服务 API Token
 
-1. 打开 [Ace Data Cloud](https://platform.acedata.cloud/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=seedance_cursor_shared_readme_register_signin_zh_hans)注册或登录，再进入 [Applications 应用管理](https://platform.acedata.cloud/console/applications?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=seedance_cursor_shared_readme_api_key_zh_hans)；若尚无通用应用，先点 **Initialize General Application**。
+1. 打开 [Ace Data Cloud](https://platform.acedata.cloud/?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=seedance_cursor_shared_readme_register_signin_zh_hans)注册或登录，再进入 [Applications 应用管理](https://platform.acedata.cloud/console/applications?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=seedance_cursor_shared_readme_api_key_zh_hans)，打开**通用应用**。
 2. 打开 **General application**，或已开通 **Seedance** 的专用应用；生成前确认权限、余额及[当前价格](https://platform.acedata.cloud/models?utm_source=github&utm_medium=referral&utm_campaign=evergreen&utm_content=seedance_cursor_shared_readme_pricing_zh_hans)。
 3. 使用下图标记 **1** 的复制按钮取已有 API Key；需要独立 Cursor 凭据时，点标记 **2** 的 **Manage Keys → Create**。
 
