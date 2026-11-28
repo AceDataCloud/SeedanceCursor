@@ -1,7 +1,7 @@
 {
   "name": "seedance",
-  "displayName": "Seedance by Ace Data Cloud",
-  "version": "1.0.1",
+  "displayName": "Seedance",
+  "version": "1.0.2",
   "minClientVersions": {
     "cursor": "3.13.0"
   },
